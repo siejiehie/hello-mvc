@@ -1,4 +1,4 @@
-package com.wide.hello;
+package com.wide.controller;
 
 import org.apache.commons.io.FileUtils;
 import org.springframework.stereotype.Controller;

@@ -1,4 +1,4 @@
-package com.wide.hello;
+package com.wide.model;
 
 /**
  * Created by Sai on 2017/2/20.

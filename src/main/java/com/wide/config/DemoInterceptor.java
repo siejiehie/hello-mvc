@@ -1,4 +1,4 @@
-package com.wide.hello;
+package com.wide.config;
 
 import org.springframework.web.servlet.ModelAndView;
 import org.springframework.web.servlet.handler.HandlerInterceptorAdapter;

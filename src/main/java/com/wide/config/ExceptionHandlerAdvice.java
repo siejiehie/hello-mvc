@@ -1,4 +1,4 @@
-package com.wide.hello;
+package com.wide.config;
 
 import org.springframework.ui.Model;
 import org.springframework.web.bind.WebDataBinder;

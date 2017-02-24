@@ -1,5 +1,6 @@
-package com.wide.hello;
+package com.wide.config;
 
+import com.wide.model.DemoObj;
 import org.springframework.http.HttpInputMessage;
 import org.springframework.http.HttpOutputMessage;
 import org.springframework.http.MediaType;
